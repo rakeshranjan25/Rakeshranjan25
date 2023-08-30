@@ -5,7 +5,7 @@
 
 🚀 **Skills:** Crafting engaging web experiences <br>
 🌱 **Learning:** Building user-friendly web experiences <br>
-🌿 **Exploring:** UI/UX Design | Front-End Frameworks <br>
+🌿 **Exploring:** UI/UX Design | Front-End Frameworks | Back-End Frameworks <br>
 🛠️ **Tools:** React | Git | VS Code <br>
 
 📫 **Get in Touch:** <br>
