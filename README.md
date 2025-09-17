@@ -1,20 +1,17 @@
 ## 👋 Hello, I'm Rakesh Ranjan Pradhan
 
-🔥 Aspiring Web Developer | HTML | CSS | JavaScript
+🔐 **Security Auditor | Ethical Hacker | Cybersecurity Enthusiast**
 
+🚀 **Expertise:** Vulnerability Assessment & Penetration Testing (VAPT) | Web App Security | OWASP Top 10 <br>
+🛡️ **Passion:** Identifying and mitigating security risks before attackers do <br>
+📚 **Learning:** Advanced Threat Hunting | Secure DevOps | Cloud Security <br>
+🌿 **Exploring:** Bug Bounty | API Security | Secure Code Reviews <br>
+🛠️ **Tools:** Burp Suite | OWASP ZAP | Kali Linux | Nmap | Metasploit | SQLMap | Git <br>
 
-🚀 **Skills:** Crafting engaging web experiences <br>
-🌱 **Learning:** Building user-friendly web experiences <br>
-🌿 **Exploring:** UI/UX Design | Front-End Frameworks | Back-End Frameworks <br>
-🛠️ **Tools:** React | Git | VS Code <br>
+💡 **I Believe:**  
+> "Security is not a product, it’s a process." – Bruce Schneier  
 
 📫 **Get in Touch:** <br>
-Reach me at 📧 [Email](mailto:rakeshranjanpradhan25@gmail.com) or connect on 💼 [LinkedIn](https://www.linkedin.com/in/rakeshranjan25). 
+Reach me at 📧 [Email](mailto:rakeshranjanpradhan25@gmail.com) or connect on 💼 [LinkedIn](https://www.linkedin.com/in/rakeshranjan25)
 
-Let's shape the web together! 🌟
-
-
-<!---
-Rakeshranjan25/Rakeshranjan25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🌐 **Mission:** Making the web a safer place, one vulnerability at a time 🔥
